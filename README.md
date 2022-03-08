@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi I'm **Hy**
+
+I'm ...
+- 🌱 A student in the final year of my undergraduate study [@SJTU](https://en.sjtu.edu.cn/).
+- 👨‍🔬 Interested in mathematics, especially in the field of algebra.
+- 🛠️ Ex Algorithm Engineer [@YITU Technology](https://www.yitutech.com/en/) 
+- 🎵 A big fan of pop music. [LaLa Hsu](https://music.apple.com/cn/artist/%E5%BE%90%E4%BD%B3%E8%8E%B9/387317532) and [Waa Wei](https://music.apple.com/cn/artist/%E9%AD%8F%E5%A6%82%E8%90%B1/426913195) are my favorites.
+
+
+You can reach me at rekind133@outlook.com
 
 <!--
 **Rekind1e/Rekind1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
