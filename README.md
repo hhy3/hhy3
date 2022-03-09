@@ -27,4 +27,12 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+C          4 hrs 17 mins   ███████████████████████▒░   93.75 %
+C++        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Bash       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+```
+
 <!--END_SECTION:waka-->
