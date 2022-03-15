@@ -8,7 +8,7 @@ I'm ...
 - 🎵 Big fan of pop music. [LaLa Hsu](https://music.apple.com/cn/artist/%E5%BE%90%E4%BD%B3%E8%8E%B9/387317532) and [Waa Wei](https://music.apple.com/cn/artist/%E9%AD%8F%E5%A6%82%E8%90%B1/426913195) are my favorites.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,6 +30,6 @@ Linux                    27 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 15/03/2022 00:51:52 UTC
+ Last Updated on 15/03/2022 09:24:56 UTC
 <!--END_SECTION:waka-->
 
