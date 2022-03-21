@@ -1,8 +1,8 @@
 Hi I'm **Hy**
 
 I'm ...
-- 🌱 Student in the final year of my undergraduate study [@SJTU](https://en.sjtu.edu.cn/)
-- 🛠️ Ex algorithm engineer intern [@YITU Technology](https://www.yitutech.com/en/) Research Center
+- 🌱 Student in the final year of my undergraduate study **@SJTU**
+- 🛠️ Ex algorithm engineer intern **@YITU Technology** Research Center
 - ⚡ Newcomer to competitive programming. You can find me at [Atcoder](https://atcoder.jp/users/Hy3) or [Leetcode](https://leetcode-cn.com/u/_hy3/)
 
 
