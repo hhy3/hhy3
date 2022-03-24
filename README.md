@@ -1,9 +1,9 @@
 Hi I'm **Hy**
 
 I'm ...
-- 🌱 Student in the final year of my undergraduate study **@SJTU**
+- 📖 Student in the final year of my undergraduate study **@SJTU**
 - 🛠️ Ex algorithm engineer intern **@YITU Technology** Research Center
-- ⚡ Newcomer to competitive programming. You can find me at [Atcoder](https://atcoder.jp/users/Hy3) or [Leetcode](https://leetcode-cn.com/u/_hy3/)
+- 🏅 Newcomer to competitive programming. You can find me at [Atcoder](https://atcoder.jp/users/Hy3) or [Leetcode](https://leetcode-cn.com/u/_hy3/)
 
 
 <!--START_SECTION:waka-->
