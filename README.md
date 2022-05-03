@@ -9,8 +9,6 @@ I'm ...
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -31,6 +29,6 @@ Windows                  57 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/05/2022 05:32:45 UTC
+ Last Updated on 03/05/2022 06:54:42 UTC
 <!--END_SECTION:waka-->
 
