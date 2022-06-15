@@ -1,16 +1,12 @@
-Hi I'm **Hy**
-
-I'm ...
-- 📖 Student in the final year of my undergraduate study **@SJTU**
-- 🛠️ Ex algorithm engineer intern **@YITU Technology** Research Center
+Hi I'm **Hy**, a slow learner.
 
 
-[![Leetcode Badge](https://img.shields.io/badge/Leetcode-2719-GREEN.svg)](https://leetcode.cn/u/_hy3/)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-2804-GREEN.svg)](https://leetcode.cn/u/_hy3/)
 [![Badge](https://cp-logo.vercel.app/codeforces/buhuixiedaima)](https://codeforces.com/profile/buhuixiedaima)
 [![Badge](https://cp-logo.vercel.app/atcoder/Hy3)](https://atcoder.jp/users/Hy3)
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 
 📊 **This Week I Spent My Time On** 
 
