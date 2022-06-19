@@ -1,7 +1,7 @@
 钝角
 
 
-[![Leetcode Badge](https://img.shields.io/badge/Leetcode-2804-GREEN.svg)](https://leetcode.cn/u/_hy3/)
+[![Badge](https://cp-logo.vercel.app/leetcode-cn/_Hy3)](https://leetcode.cn/u/_hy3/)
 [![Badge](https://cp-logo.vercel.app/codeforces/buhuixiedaima)](https://codeforces.com/profile/buhuixiedaima)
 [![Badge](https://cp-logo.vercel.app/atcoder/Hy3)](https://atcoder.jp/users/Hy3)
 <br>
