@@ -2,7 +2,7 @@
 
 I'm currently a software engineer **@Zilliz**, working on vector database systems.
 
-Before that, I'm an undergrad student **@SJTU**, doing some research in the interdiscipline of Deep Learning and Fintech.
+Before that, I was an undergrad student **@SJTU**, doing some research in the interdiscipline of Deep Learning and Fintech.
 
 I'm also interested in competitive programming. Check these if you want:
 
