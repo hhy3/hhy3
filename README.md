@@ -1,8 +1,8 @@
 #### Hi, I'm Wang Zihao.
 
-I'm currently a software engineer **@Zilliz**, working on vector database systems.
+I'm currently a software engineer **@Zilliz**, working on vector similarity search algorithms.
 
-Before that, I was an undergrad student **@SJTU**, doing some research in the interdiscipline of Deep Learning and Fintech.
+Before that, I was an undergrad student **@SJTU**, doing some deep learning stuff.
 
 I'm also interested in competitive programming. Check these if you want:
 
