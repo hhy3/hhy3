@@ -10,3 +10,8 @@ I'm also interested in competitive programming. Check these if you want:
 [![Badge](https://cp-logo.vercel.app/codeforces/buhuixiedaima)](https://codeforces.com/profile/buhuixiedaima)
 [![Badge](https://cp-logo.vercel.app/atcoder/Hy3)](https://atcoder.jp/users/Hy3)
 
+My favorite code snippet:
+```c
+powerCon(1 | 2 | 6 | 7 | 11 | 52 | 57 | 58 | 65, 10);
+```
+
